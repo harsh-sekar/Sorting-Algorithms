@@ -1,9 +1,9 @@
 """ ALGORITHM FOR RECURSIVE BUBBLE SORT
     STEP 1: Get an array
-    STEP 2: Pass the array into the function
+    STEP 2: Pass the array and legth into the function
     STEP 3: Iterate through the list
     STEP 4: Compare the adjacent pairs and swap them if they're not in the correct order
-    STEP 5: Call the function recursively passing the array as the argument"""
+    STEP 5: Call the function recursively passing the array and length-1 as the arguments"""
 
     #CODE
 
